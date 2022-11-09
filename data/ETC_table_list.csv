@@ -1,0 +1,9 @@
+project_id,dataset_id,table_id,creation_time,last_modified_time,row_count,size_bytes,type
+bigquery-public-data,crypto_ethereum_classic,balances,1579787245638,1606139534380,93200492,5592029520,1
+bigquery-public-data,crypto_ethereum_classic,blocks,1548355775086,1606138851446,11661235,12890285980,1
+bigquery-public-data,crypto_ethereum_classic,contracts,1548355742492,1606138961489,76444737,14553037294,1
+bigquery-public-data,crypto_ethereum_classic,logs,1548355748843,1606138889078,12143899,5136290446,1
+bigquery-public-data,crypto_ethereum_classic,token_transfers,1548355712053,1606138888457,725394,223995450,1
+bigquery-public-data,crypto_ethereum_classic,tokens,1548355516717,1606138888759,10415,1763461,1
+bigquery-public-data,crypto_ethereum_classic,traces,1548355780184,1606138962741,227130552,86922492631,1
+bigquery-public-data,crypto_ethereum_classic,transactions,1548355780439,1606138962132,63560582,25665563036,1
